@@ -19,4 +19,4 @@ REACT
 
 ## Image of application
 
-Screen Shot 2020-12-18 at 12.26.57 PM
+Employee_directory.png
