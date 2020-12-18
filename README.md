@@ -17,6 +17,6 @@ REACT
 
 ## Image of Application
 
-Employee_directory.png
+https://github.com/byrdfabian/employee-directoryHW/blob/main/images/Employee_directory.png
 
 
