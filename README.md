@@ -15,8 +15,3 @@ quick access to their information.
 
 REACT
 
-## Application Link
-
-## Image of application
-
-Employee_directory.png
