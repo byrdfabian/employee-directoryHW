@@ -15,7 +15,7 @@ quick access to their information.
 
 REACT
 
-## Image of Application
+## Screenshot of Application
 
 https://github.com/byrdfabian/employee-directoryHW/blob/main/images/Employee_directory.png
 
