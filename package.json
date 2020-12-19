@@ -1,8 +1,8 @@
 {
+  "homepage": "https://byrdfabian.github.io/employee-directory",
   "name": "employee-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/byrdfabian/employee-directoryHW.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
