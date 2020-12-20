@@ -12,6 +12,10 @@ quick access to their information.
 
 REACT
 
+## Github Deployment Link
+
+https://byrdfabian.github.io/employee-directoryHW/
+
 ## Screenshot of Application
 
 ![](images/Employee_directory.png)
