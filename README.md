@@ -16,6 +16,13 @@ REACT
 
 https://byrdfabian.github.io/employee-directoryHW/
 
+### To Run this Application
+
+* Clone reposititory to your local machine
+* Open it in your editor
+* Open new terminal from inside the root directory
+* Type npm start and hit enter
+
 ## Screenshot of Application
 
 ![](images/Employee_directory.png)
